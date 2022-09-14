@@ -1,1 +1,5 @@
-6. a function that computes the absolute value of an integer.
+7.  a function that prints the last digit of a number.
+
+
+
+
