@@ -1,1 +1,1 @@
-11. a function that prints all natural numbers from n to 98, followed by a new line.
+2.  a function that prints 10 times the alphabet, in lowercase, followed by a new line.
