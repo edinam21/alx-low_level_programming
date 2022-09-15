@@ -1,1 +1,1 @@
-6. a function that computes the absolute value of an integer.
+12. a function that prints the n times table, starting with 0.
