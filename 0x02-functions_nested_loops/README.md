@@ -1,1 +1,1 @@
-2.  a function that prints 10 times the alphabet, in lowercase, followed by a new line.
+5. a function that prints the sign of a number.
