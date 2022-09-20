@@ -1,1 +1,1 @@
-4.a function that prints a string, in reverse, followed by a new line.
+5.  a function that reverses a string.
